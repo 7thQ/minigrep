@@ -1,0 +1,9 @@
+
+looking for 'fuck' in this file: 'lick.txt'
+
+
+File-Line[1] : fuck me  i
+
+
+File-Line[11] : fuckme 
+
